@@ -1,0 +1,29 @@
+[
+  {
+    "id": "testimonial-1",
+    "name": "Rajesh Kumar",
+    "title": "Facilities Manager",
+    "company": "Tech Solutions Pvt Ltd",
+    "content": "Clair has transformed our office lighting completely. The energy savings are remarkable, and the quality of light has improved employee productivity significantly.",
+    "rating": 5,
+    "display_order": 0
+  },
+  {
+    "id": "testimonial-2",
+    "name": "Priya Sharma",
+    "title": "Operations Head",
+    "company": "Manufacturing Industries",
+    "content": "We installed Clair industrial lights across our warehouse. Excellent durability, brilliant illumination, and the technical support team is outstanding.",
+    "rating": 5,
+    "display_order": 1
+  },
+  {
+    "id": "testimonial-3",
+    "name": "Amit Patel",
+    "title": "Store Manager",
+    "company": "Retail Chain",
+    "content": "The track lighting system has enhanced our product displays beautifully. Our customers notice the difference, and our electricity bills have dropped by 70%.",
+    "rating": 5,
+    "display_order": 2
+  }
+]

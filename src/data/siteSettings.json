@@ -1,0 +1,46 @@
+{
+  "companyName": "Clair Electronics Private Limited",
+  "headerTagline": "Since 2006 | Trusted Lighting Solutions",
+  "primaryEmail": "admin@clairjg.com",
+  "secondaryEmail": null,
+  "phones": [
+    {
+      "label": "Main",
+      "number": "+91-11-49843647-9",
+      "tel": "+911149843647"
+    },
+    {
+      "label": "Mobile",
+      "number": "+91-9315401501",
+      "tel": "+919315401501"
+    }
+  ],
+  "formRecipientEmail": "crm@clair.online",
+  "address": {
+    "line1": "Plot No. 58, sector 155",
+    "line2": null,
+    "city": "Noida - 201310",
+    "postalCode": "201310",
+    "country": "India"
+  },
+  "businessHours": [
+    "Monday - Friday: 9:00 AM - 6:00 PM IST",
+    "Saturday: 10:00 AM - 2:00 PM IST",
+    "Sunday: Closed"
+  ],
+  "locations": [
+    "Delhi",
+    "Chennai",
+    "Kolkata",
+    "Patna",
+    "Lucknow",
+    "Noida",
+    "Ahmedabad",
+    "Bangalore",
+    "Ludhiana",
+    "Chandigarh",
+    "Dubai",
+    "London",
+    "Singapore"
+  ]
+}

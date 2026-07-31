@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Batten & Tube Lights",
+    "slug": "batten-tube-lights",
+    "description": "Energy-efficient batten and tube lighting solutions",
+    "display_order": 1
+  },
+  {
+    "id": "cat-2",
+    "name": "Downlights & Surface Lights",
+    "slug": "downlights-surface-lights",
+    "description": "Modern downlights and surface-mounted lighting",
+    "display_order": 2
+  },
+  {
+    "id": "cat-3",
+    "name": "COB Lights",
+    "slug": "cob-lights",
+    "description": "COB downlights with superior light quality",
+    "display_order": 3
+  },
+  {
+    "id": "cat-4",
+    "name": "Flood & Canopy Lights",
+    "slug": "flood-canopy-lights",
+    "description": "Outdoor flood and canopy lighting solutions",
+    "display_order": 4
+  },
+  {
+    "id": "cat-5",
+    "name": "Street & Emergency Street Lights",
+    "slug": "street-emergency-lights",
+    "description": "Street lighting and emergency backup lighting",
+    "display_order": 5
+  },
+  {
+    "id": "cat-6",
+    "name": "High Bay Lights",
+    "slug": "high-bay-lights",
+    "description": "High-performance lighting for large spaces",
+    "display_order": 6
+  },
+  {
+    "id": "cat-7",
+    "name": "Linear Lights",
+    "slug": "linear-lights",
+    "description": "Linear LED lighting systems",
+    "display_order": 7
+  },
+  {
+    "id": "cat-8",
+    "name": "Rope, Strip Lights & Drivers",
+    "slug": "rope-strip-lights-drivers",
+    "description": "Decorative rope lights, strips and power drivers",
+    "display_order": 8
+  },
+  {
+    "id": "cat-9",
+    "name": "Industrial, Outdoor & Underground Lights",
+    "slug": "industrial-outdoor-underground",
+    "description": "Rugged industrial and outdoor lighting solutions",
+    "display_order": 9
+  },
+  {
+    "id": "cat-10",
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "Lighting accessories and supplies",
+    "display_order": 10
+  },
+  {
+    "id": "cat-11",
+    "name": "BULB SERIES",
+    "slug": "bulb-series",
+    "description": "Energy-efficient LED bulbs for everyday use",
+    "display_order": 11
+  }
+]
+

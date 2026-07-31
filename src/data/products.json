@@ -1,0 +1,503 @@
+[
+  {
+    "id": "prod-1",
+    "category_id": "cat-1",
+    "name": "T-5 Adventa Series",
+    "slug": "t-5-adventa-series",
+    "description": "Energy-efficient T-5 batten lights with polycarbonate housing. Available in multiple wattages with excellent lumen efficacy.",
+    "short_description": "Polycarbonate housing batten lights with 25,000 hours lifespan",
+    "specifications": {
+      "Material": "Polycarbonate housing (Aluminium on demand)",
+      "Operating Temp": "-10°C to +45°C",
+      "Voltage": "90–300V AC",
+      "Lifespan": "25,000 hours",
+      "CRI": ">80",
+      "Lumen Efficacy": "100–110 lm/W",
+      "Surge Protection": "4KV",
+      "Power Factor": ">0.90",
+      "models": [
+        {"code": "CLADT00506K", "wattage": "0.5W", "dimensions": "300×22×30 mm", "packing": "20 pcs", "price": "185.00"},
+        {"code": "CLADT01008K", "wattage": "10W", "dimensions": "800×22×30 mm", "packing": "20 pcs", "price": "200.00"},
+        {"code": "CLADT02006K", "wattage": "20W", "dimensions": "1100×22×30 mm", "packing": "20 pcs", "price": "235.00"}
+      ]
+    },
+    "features": ["Photobiologically safe", "No UV/IR", "Mercury-free", "Instant Start", "High lumen efficacy", "Surge protection"],
+    "applications": ["Commercial spaces", "Offices", "Warehouses", "Retail stores"],
+    "image_url": "./product/4.T-5 Adventa.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": true,
+    "display_order": 1
+  },
+  {
+    "id": "prod-2",
+    "category_id": "cat-1",
+    "name": "ZD Adventa - Elenta Series",
+    "slug": "zd-adventa-elenta-series",
+    "description": "Patented batten light series with aluminium housing and virgin polycarbonate diffuser. Premium quality with 25,000 hours lifespan.",
+    "short_description": "Patented series with aluminium housing and polycarbonate diffuser",
+    "specifications": {
+      "Material": "Aluminium housing + Virgin Polycarbonate diffuser",
+      "Lifespan": "25,000 hours",
+      "Voltage": "220–240V AC, 50Hz",
+      "CRI": ">80",
+      "models": [
+        {"code": "CLZDB01806K", "wattage": "18W", "dimensions": "594×70×25 mm", "packing": "20 pcs", "price": "1300.00"},
+        {"code": "CLZDB02006K", "wattage": "20W", "dimensions": "594×70×25 mm", "packing": "20 pcs", "price": "1450.00"},
+        {"code": "CLZDB04006K", "wattage": "40W", "dimensions": "1194×70×25 mm", "packing": "20 pcs", "price": "2800.00"}
+      ]
+    },
+    "features": ["Patented design", "Premium materials", "Long lifespan", "High CRI"],
+    "applications": ["Premium commercial spaces", "Offices", "Showrooms"],
+    "image_url": "./product/5ZD aventa- elanta.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 2
+  },
+  {
+    "id": "prod-3",
+    "category_id": "cat-2",
+    "name": "Rainbow & Rainbow Plus Series",
+    "slug": "rainbow-rainbow-plus-series",
+    "description": "Versatile downlights with colour changing capability by switching. Perfect for modern interiors.",
+    "short_description": "Colour changing downlights with polycarbonate housing",
+    "specifications": {
+      "Material": "Virgin Polycarbonate housing",
+      "Lifespan": "25,000 hours",
+      "Voltage": "90–300V AC",
+      "Power Factor": ">0.90",
+      "Feature": "Colour changing by switching (PBG-CW-PBG+CW)",
+      "models": [
+        {"code": "CLRNB006MTC", "wattage": "0.6W", "outerDimensions": "Ø88×45 mm", "cutout": "Ø48 mm", "packing": "30 pcs", "price": "370.00"},
+        {"code": "CLRNP012MTC", "wattage": "12+12W", "outerDimensions": "Ø170×28 mm", "cutout": "Ø154 mm", "packing": "20 pcs", "price": null}
+      ]
+    },
+    "features": ["Colour changing", "Instant start", "Mercury-free", "Photobiologically safe"],
+    "applications": ["Residential", "Commercial interiors", "Retail spaces", "Hotels"],
+    "image_url": "./product/6Rainbow.png",
+    "gallery_images": ["./product/7Rainbow plus.png"],
+    "datasheet_url": null,
+    "is_featured": true,
+    "display_order": 3
+  },
+  {
+    "id": "prod-4",
+    "category_id": "cat-2",
+    "name": "Irish & Irish Flower Series",
+    "slug": "irish-irish-flower-series",
+    "description": "Premium downlights with aluminium diecast housing. Excellent system lumen efficiency.",
+    "short_description": "Aluminium diecast downlights with high efficiency",
+    "specifications": {
+      "Material": "Aluminium diecast housing",
+      "Lifespan": "25,000 hours",
+      "System Lumen": "80–110 lm/W",
+      "Surge Protection": "4KV",
+      "models": [
+        {"code": "CLIRR00306K", "wattage": "3W", "outerDimensions": "Ø83×25 mm", "cutout": "Ø67 mm", "packing": "20 pcs", "price": "300.00"},
+        {"code": "CLIRF010MTC", "wattage": "12+4W", "outerDimensions": "Ø115×45 mm", "cutout": "Ø48 mm", "packing": "20 pcs", "price": "1200.00"}
+      ]
+    },
+    "features": ["High efficiency", "Surge protection", "Premium build quality"],
+    "applications": ["Premium interiors", "Commercial spaces", "Offices"],
+    "image_url": "./product/10 Irish & Irish flower.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 4
+  },
+  {
+    "id": "prod-5",
+    "category_id": "cat-2",
+    "name": "Orion Series",
+    "slug": "orion-series",
+    "description": "Versatile downlight series available in round and square designs. Suitable for various applications.",
+    "short_description": "Round and square downlights with 25,000 hours lifespan",
+    "specifications": {
+      "Lifespan": "25,000 hours",
+      "Voltage": "90–300V AC",
+      "models": [
+        {"code": "CLONR00608K", "wattage": "6W", "outerDimensions": "Ø95×30 mm", "shape": "Round", "packing": "20 pcs", "price": "245.00"},
+        {"code": "CLONS01006K", "wattage": "10W", "outerDimensions": "129×129×30 mm", "shape": "Square", "packing": "20 pcs", "price": "370.00"}
+      ]
+    },
+    "features": ["Multiple shapes", "Long lifespan", "Versatile"],
+    "applications": ["Residential", "Commercial", "Offices"],
+    "image_url": "./product/13 Orion Add-on.png",
+    "gallery_images": ["./product/14 Orion & Orion backlit new .png"],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 5
+  },
+  {
+    "id": "prod-6",
+    "category_id": "cat-3",
+    "name": "SOL Series COB Downlight",
+    "slug": "sol-series-cob-downlight",
+    "description": "COB downlight with 38° beam angle and aluminium diecast housing. Premium quality lighting solution.",
+    "short_description": "COB downlight with 38° beam angle",
+    "specifications": {
+      "Beam Angle": "38°",
+      "Material": "Aluminium diecast housing",
+      "Lifespan": "25,000 hours",
+      "Voltage": "90–300V AC",
+      "models": [
+        {"code": "CLCSOWH1076K", "wattage": "7W", "cutout": "Ø50 mm", "packing": "20 pcs", "price": "1020.00"},
+        {"code": "CLCSOWH128K", "wattage": "12W", "cutout": "Ø70 mm", "packing": "20 pcs", "price": "1275.00"}
+      ]
+    },
+    "features": ["COB technology", "Focused beam", "Premium housing"],
+    "applications": ["Accent lighting", "Commercial spaces", "Retail"],
+    "image_url": "./product/25 SOL.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 6
+  },
+  {
+    "id": "prod-7",
+    "category_id": "cat-3",
+    "name": "Super Nova Series",
+    "slug": "super-nova-series",
+    "description": "High-performance COB downlight with extended 50,000 hours lifespan. Superior power factor.",
+    "short_description": "COB downlight with 50,000 hours lifespan",
+    "specifications": {
+      "Beam Angle": "38°",
+      "Material": "Aluminium diecast housing",
+      "Lifespan": "50,000 hours",
+      "Power Factor": ">0.90",
+      "models": [
+        {"code": "CLCSWWH076K", "wattage": "7W", "outerDimensions": "Ø63×60 mm", "cutout": "Ø50 mm", "packing": "20 pcs", "price": "715.00"},
+        {"code": "CLCSWWH186K", "wattage": "18W", "outerDimensions": "Ø95×100 mm", "cutout": "Ø80 mm", "packing": "20 pcs", "price": "1225.00"}
+      ]
+    },
+    "features": ["Extended lifespan", "High power factor", "COB technology"],
+    "applications": ["Commercial", "Industrial", "Retail"],
+    "image_url": "./product/34 Super Nova.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": true,
+    "display_order": 7
+  },
+  {
+    "id": "prod-8",
+    "category_id": "cat-4",
+    "name": "Diamond Series",
+    "slug": "diamond-series",
+    "description": "IP66 rated flood lights suitable for outdoor applications. Available from 100W to 300W.",
+    "short_description": "IP66 rated outdoor flood lights",
+    "specifications": {
+      "IP Rating": "IP66",
+      "Lifespan": "30,000 hours",
+      "Power Factor": ">0.90",
+      "models": [
+        {"code": "CLDMF01006K", "wattage": "100W", "dimensions": "115×110×35 mm", "packing": "20 pcs", "price": "855.00"},
+        {"code": "CLDMF30006K", "wattage": "300W", "dimensions": "285×300×42 mm", "packing": "1 pc", "price": "15640.00"}
+      ]
+    },
+    "features": ["Weatherproof", "High power factor", "Long lifespan"],
+    "applications": ["Outdoor lighting", "Building facades", "Parking lots"],
+    "image_url": "./product/40. DIAMOND png.png",
+    "gallery_images": ["./product/46 Diamond New.png"],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 8
+  },
+  {
+    "id": "prod-9",
+    "category_id": "cat-4",
+    "name": "Platinum Slimo Ultra Series",
+    "slug": "platinum-slimo-ultra-series",
+    "description": "Slim design flood lights with IP66 rating. Perfect for modern outdoor applications.",
+    "short_description": "Slim IP66 rated flood lights",
+    "specifications": {
+      "IP Rating": "IP66",
+      "Lifespan": "25,000 hours",
+      "models": [
+        {"code": "CLSUF03006K", "wattage": "30W", "dimensions": "145×119×25 mm", "packing": "40 pcs", "price": "980.00"},
+        {"code": "CLSUF30006K", "wattage": "300W", "dimensions": "425×355×30 mm", "packing": "10 pcs", "price": "6965.00"}
+      ]
+    },
+    "features": ["Slim design", "Weatherproof", "Modern aesthetics"],
+    "applications": ["Outdoor applications", "Architectural lighting"],
+    "image_url": "./product/41 PLATINUM & PLATIMUN Slimo Ultra.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 9
+  },
+  {
+    "id": "prod-10",
+    "category_id": "cat-5",
+    "name": "Splendor Plus Series",
+    "slug": "splendor-plus-series",
+    "description": "Heavy-duty street lights with IP66 rating and extended 50,000 hours lifespan. Aluminium diecast housing.",
+    "short_description": "IP66 rated street lights with 50,000 hours lifespan",
+    "specifications": {
+      "IP Rating": "IP66",
+      "Lifespan": "50,000 hours",
+      "Material": "Heavy aluminium diecast housing",
+      "models": [
+        {"code": "CLT50WSTN", "wattage": "50W", "dimensions": "332×140×86 mm", "packing": "5 pcs", "price": "6500.00"},
+        {"code": "CLT200WSTN", "wattage": "200W", "dimensions": "425×200×100 mm", "packing": "5 pcs", "price": "25000.00"}
+      ]
+    },
+    "features": ["Heavy-duty construction", "Extended lifespan", "Weatherproof"],
+    "applications": ["Street lighting", "Highways", "Public areas"],
+    "image_url": "./product/49 Splendor Plus.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": true,
+    "display_order": 10
+  },
+  {
+    "id": "prod-11",
+    "category_id": "cat-5",
+    "name": "Emergency Night Tornedo Series",
+    "slug": "emergency-night-tornedo-series",
+    "description": "Emergency lighting with up to 4 hours backup using lithium-ion battery. High surge protection.",
+    "short_description": "Emergency lighting with 4 hours battery backup",
+    "specifications": {
+      "Backup": "Up to 4 hours",
+      "Battery": "Lithium-ion",
+      "Surge Protection": "6KV",
+      "Lumen Efficacy": "110–120 lm/W",
+      "models": [
+        {"code": "CLINT01206K", "wattage": "12W", "dimensions": "275×67×40 mm", "packing": "10 pcs", "price": "850.00"}
+      ]
+    },
+    "features": ["Battery backup", "Emergency ready", "High surge protection", "Energy efficient"],
+    "applications": ["Emergency lighting", "Street lighting", "Public safety"],
+    "image_url": "./product/57 Emergency Night Tornedo.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 11
+  },
+  {
+    "id": "prod-12",
+    "category_id": "cat-6",
+    "name": "Lexa UFO Series",
+    "slug": "lexa-ufo-series",
+    "description": "High-performance UFO-style high bay lights with IP65 rating and 50,000 hours lifespan.",
+    "short_description": "IP65 rated UFO high bay lights",
+    "specifications": {
+      "IP Rating": "IP65",
+      "Lifespan": "50,000 hours",
+      "Power Factor": ">0.90",
+      "models": [
+        {"code": "CLUFO05006K", "wattage": "50W", "dimensions": "Ø352×175 mm", "packing": "1 pc", "price": "6505.00"},
+        {"code": "CLUFO20006K", "wattage": "200W", "dimensions": "Ø360×190 mm", "packing": "1 pc", "price": "17340.00"}
+      ]
+    },
+    "features": ["IP65 rated", "Extended lifespan", "High power factor", "UFO design"],
+    "applications": ["Warehouses", "Factories", "Large industrial spaces"],
+    "image_url": "./product/53.LEXA png.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": true,
+    "display_order": 12
+  },
+  {
+    "id": "prod-13",
+    "category_id": "cat-7",
+    "name": "Linear Series",
+    "slug": "linear-series",
+    "description": "Linear LED lighting system with extended 50,000 hours lifespan and high surge protection.",
+    "short_description": "Linear LED system with 50,000 hours lifespan",
+    "specifications": {
+      "Lifespan": "50,000 hours",
+      "Voltage": "220–240V AC",
+      "Surge Protection": "6KV",
+      "models": [
+        {"code": "CLLRC00306K", "wattage": "3W", "dimensions": "74×56×56 mm", "packing": "20 pcs", "price": "1180.00"},
+        {"code": "CLLRC02506K", "wattage": "25W", "dimensions": "397×56×56 mm", "packing": "20 pcs", "price": "4125.00"}
+      ]
+    },
+    "features": ["Extended lifespan", "High surge protection", "Linear design"],
+    "applications": ["Commercial spaces", "Offices", "Retail"],
+    "image_url": "./product/58 Linear .png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 13
+  },
+  {
+    "id": "prod-14",
+    "category_id": "cat-8",
+    "name": "Glitter Rope Series",
+    "slug": "glitter-rope-series",
+    "description": "IP65 rated decorative rope lights with SMD 2835 LEDs. Perfect for accent and decorative lighting.",
+    "short_description": "IP65 rated decorative rope lights",
+    "specifications": {
+      "IP Rating": "IP65",
+      "LED Type": "SMD 2835, 120 LED/m",
+      "Lifespan": "30,000 hours",
+      "models": [
+        {"code": "CLSTD220V-2835WH", "wattagePerMeter": "10W", "voltage": "120–300V AC", "packing": "50m × 3 per box", "pricePerMeter": "198.00"}
+      ]
+    },
+    "features": ["Weatherproof", "Decorative", "Flexible installation"],
+    "applications": ["Decorative lighting", "Accent lighting", "Outdoor decoration"],
+    "image_url": "./product/60. Glitter png.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 14
+  },
+  {
+    "id": "prod-15",
+    "category_id": "cat-8",
+    "name": "Sparkle SMPS Drivers",
+    "slug": "sparkle-smps-drivers",
+    "description": "Constant current SMPS drivers with CRC/Polycarbonate housing. Available in multiple wattages.",
+    "short_description": "Constant current SMPS drivers",
+    "specifications": {
+      "Housing": "CRC/Polycarbonate",
+      "Type": "Constant current output",
+      "Voltage": "120–300V AC",
+      "models": [
+        {"code": "CLSMPS2", "wattage": "24W", "ampere": "2A", "packing": "20 pcs", "price": "700.00"},
+        {"code": "CLSMPS10", "wattage": "120W", "ampere": "10A", "packing": "20 pcs", "price": "1900.00"}
+      ]
+    },
+    "features": ["Constant current", "Durable housing", "Wide voltage range"],
+    "applications": ["LED power supply", "Industrial applications"],
+    "image_url": "./product/62. Sparkle SMPS png.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 15
+  },
+  {
+    "id": "prod-16",
+    "category_id": "cat-9",
+    "name": "Bollard & Post Top Lights",
+    "slug": "bollard-post-top-lights",
+    "description": "IP65/IP67 rated bollard and post top lights with powder-coated aluminium and PC diffuser.",
+    "short_description": "Weatherproof bollard and post top lights",
+    "specifications": {
+      "IP Rating": "IP65/IP67",
+      "Material": "Powder-coated aluminium, PC diffuser",
+      "Surge Protection": "4KV–6KV",
+      "models": [
+        {"code": "CLCRBD09W", "wattage": "9W", "dimensions": "Ø95×700×25 mm", "price": "8200.00"},
+        {"code": "CLCET45W", "wattage": "45W", "dimensions": "Ø450×680 mm", "price": "20500.00"}
+      ]
+    },
+    "features": ["High IP rating", "Durable materials", "Surge protection"],
+    "applications": ["Landscape lighting", "Pathways", "Public spaces"],
+    "image_url": "./product/52.Beacon png.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 16
+  },
+  {
+    "id": "prod-17",
+    "category_id": "cat-10",
+    "name": "Insulation Tape PVC",
+    "slug": "insulation-tape-pvc",
+    "description": "PVC insulation tape available in multiple sizes for electrical applications.",
+    "short_description": "PVC insulation tape in multiple sizes",
+    "specifications": {
+      "Type": "PVC",
+      "Sizes": "6m × 1.5cm × 0.125mm, 16m × 1.7cm × 0.125mm",
+      "Packing": "30 rolls/inner (6m), 20 rolls/inner (16m)"
+    },
+    "features": ["PVC material", "Multiple sizes", "Reliable insulation"],
+    "applications": ["Electrical work", "Wire insulation", "Repairs"],
+    "image_url": "./product/79. Insulation Tape PVC (6mX1.5mX0.125m)png.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 17
+  },
+  {
+    "id": "prod-18",
+    "category_id": "cat-11",
+    "name": "Handsome LED Bulb",
+    "slug": "handsome-led-bulb",
+    "description": "Everyday LED bulb built for long hours, stable brightness, and low power usage.",
+    "short_description": "Energy-efficient LED bulb with long life operation",
+    "specifications": {
+      "Voltage": "220 to 240V AC, 50Hz",
+      "Power Factor": ">0.90",
+      "Base": "B22",
+      "Color Temperature": "WW, NW, CW",
+      "models": [
+        {"code": "CLBLB00306K", "wattage": "3W", "lumens": "~300lm", "price": "80.00"},
+        {"code": "CLBLB00506K", "wattage": "5W", "lumens": "~500lm", "price": "90.00"},
+        {"code": "CLBLB00706K", "wattage": "7W", "lumens": "~550lm", "price": "100.00"},
+        {"code": "CLBLB00906K", "wattage": "9W", "lumens": "~900lm", "price": "110.00"},
+        {"code": "CLBLB01006K", "wattage": "10W", "lumens": "~1000lm", "price": "120.00"},
+        {"code": "CLBLB01206K", "wattage": "12W", "lumens": "~1200lm", "price": "215.00"},
+        {"code": "CLBLB01506K", "wattage": "15W", "lumens": "~1500lm", "price": "225.00"},
+        {"code": "CLBLB01806K", "wattage": "18W", "lumens": "~1800lm", "price": "325.00"},
+        {"code": "CLBLB02006K", "wattage": "20W", "lumens": "~2000lm", "price": "355.00"},
+        {"code": "CLBLB02406K", "wattage": "24W", "lumens": "~2400lm", "price": "485.00"},
+        {"code": "CLBLB03006K", "wattage": "30W", "lumens": "~3000lm", "price": "680.00"},
+        {"code": "CLBLB04006K", "wattage": "40W", "lumens": "~4000lm", "price": "795.00"},
+        {"code": "CLBLB05006K", "wattage": "50W", "lumens": "~5000lm", "price": "960.00"},
+        {"code": "CLBLB06506K", "wattage": "65W", "lumens": "~6500lm", "price": "1400.00"}
+      ]
+    },
+    "features": ["Energy efficient LED", "Instant full brightness", "Long life operation", "Mercury free"],
+    "applications": ["Homes", "Offices", "Shops", "Daily use lighting"],
+    "image_url": "./product/1. handsome.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": true,
+    "display_order": 18
+  },
+  {
+    "id": "prod-19",
+    "category_id": "cat-11",
+    "name": "Gold Handsome LED Bulb",
+    "slug": "gold-handsome-led-bulb",
+    "description": "Premium finished bulb with better consistency and thermal handling.",
+    "short_description": "Premium finished bulb with better thermal handling",
+    "specifications": {
+      "Voltage": "220 to 240V AC",
+      "Base": "B22",
+      "Power Factor": ">0.90",
+      "models": [
+        {"code": "CLBLG00906K", "wattage": "9W", "price": "125.00"}
+      ]
+    },
+    "features": ["Premium finish", "Better consistency", "Improved thermal handling"],
+    "applications": ["Premium residential", "Decorative fixtures"],
+    "image_url": "./product/3 gold hansome.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 19
+  },
+  {
+    "id": "prod-20",
+    "category_id": "cat-11",
+    "name": "Inverter LED Bulb",
+    "slug": "inverter-led-bulb",
+    "description": "Works on inverter backup during power cuts without flicker.",
+    "short_description": "LED bulb that works on inverter backup without flicker",
+    "specifications": {
+      "Voltage": "220 to 240V AC",
+      "Base": "B22",
+      "Charging Time": "6 to 8 hours",
+      "models": [
+        {"code": "CLBIN00906K", "wattage": "9W", "backup": "up to 4 hrs", "price": "411.00"},
+        {"code": "CLBIN01006K", "wattage": "10W", "backup": "up to 4 hrs", "price": "551.00"},
+        {"code": "CLBIN01206K", "wattage": "12W", "backup": "up to 4 hrs", "price": "640.00"},
+        {"code": "CLBIN02006K", "wattage": "20W", "backup": "up to 4 hrs", "price": "1150.00"}
+      ]
+    },
+    "features": ["Inverter backup compatible", "No flicker during power cuts", "Automatic switching"],
+    "applications": ["Homes with frequent power cuts", "Bedrooms", "Study rooms"],
+    "image_url": "./product/2. Inverter.png",
+    "gallery_images": [],
+    "datasheet_url": null,
+    "is_featured": false,
+    "display_order": 20
+  }
+]
+

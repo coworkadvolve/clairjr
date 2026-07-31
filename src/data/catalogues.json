@@ -1,0 +1,39 @@
+[
+  {
+    "id": "company-profile",
+    "title": "Company Profile",
+    "description": "Learn about our company history, values, certifications, and our commitment to providing exceptional lighting solutions.",
+    "filePath": "/catalogue/Company-Profile-Clair.pdf",
+    "fileName": "Company-Profile-Clair.pdf",
+    "coverImage": "/catalogue/company-profile-thumb.png",
+    "display_order": 0
+  },
+  {
+    "id": "general-catalogue",
+    "title": "General Lightning Catalogue",
+    "description": "Browse our comprehensive product range with detailed specifications, features, and applications for all our lighting solutions.",
+    "filePath": "/catalogue/Clair-General-Lightning-catalogue.pdf",
+    "fileName": "Clair-General-Lightning-catalogue.pdf",
+    "coverImage": "/catalogue/product-catalogue thumb.png",
+    "display_order": 1
+  },
+  {
+    "id": "indoor-catalogue",
+    "title": "Architectural Indoor Catalogue",
+    "description": "Explore our indoor architectural lighting solutions designed for commercial and residential spaces with modern aesthetics and superior performance.",
+    "filePath": "https://drive.thebigsparrow.com/public.php/dav/files/tNBc9ykRGKycxbq/?accept=zip",
+    "fileName": "Clair Architectural Indoor Catalogue.pdf",
+    "coverImage": "/catalogue/indoor-lightning.png",
+    "viewUrl": "https://drive.thebigsparrow.com/s/tNBc9ykRGKycxbq",
+    "display_order": 2
+  },
+  {
+    "id": "outdoor-catalogue",
+    "title": "Architectural Outdoor Catalogue",
+    "description": "Discover our outdoor architectural lighting collection featuring weather-resistant designs for landscapes, facades, and outdoor environments.",
+    "filePath": "/catalogue/Clair Architectural Outdoor Catalogue.pdf",
+    "fileName": "Clair Architectural Outdoor Catalogue.pdf",
+    "coverImage": "/catalogue/outdoor-lightning.png",
+    "display_order": 3
+  }
+]
