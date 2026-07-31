@@ -3,7 +3,7 @@ import blogService from '@/lib/blog';
 import { pageMetadata } from '@/lib/seo/metadata';
 
 export const metadata = pageMetadata.blog;
-export const revalidate = 3600;
+export const revalidate = 60;
 
 export default async function BlogPage() {
   const posts = await blogService.getPosts();
