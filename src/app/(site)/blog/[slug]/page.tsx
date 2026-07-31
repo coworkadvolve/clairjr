@@ -9,8 +9,7 @@ import { routes } from '@/lib/routes';
 import { articleJsonLd, breadcrumbJsonLd, JsonLd } from '@/lib/seo/jsonld';
 import { createPageMetadata, siteConfig } from '@/lib/seo/metadata';
 
-export const revalidate = 3600;
-
+export const revalidate = 60;
 interface BlogPostPageProps {
   params: Promise<{ slug: string }>;
 }
