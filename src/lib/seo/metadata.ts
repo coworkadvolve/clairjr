@@ -2,12 +2,12 @@ import type { Metadata } from 'next';
 
 import { siteUrl } from '@/sanity/env';
 
-const defaultTitle = 'Clair Electronics Private Limited - Intelligent Lighting Solutions';
+const defaultTitle = 'Clair Electronics Limited - Intelligent Lighting Solutions';
 const defaultDescription =
   'Clair Electronics - Leading provider of eco-friendly, energy-efficient LED lighting solutions for commercial, industrial, and architectural applications since 2006. ISO 9001 certified with 50,000+ installations worldwide.';
 
 export const siteConfig = {
-  name: 'Clair Electronics Private Limited',
+  name: 'Clair Electronics Limited',
   shortName: 'Clair Lighting',
   title: defaultTitle,
   description: defaultDescription,
@@ -153,12 +153,6 @@ export const pageMetadata = {
       'Clair Lighting offers lighting design consultation, installation support, energy audits, and maintenance services for commercial and industrial projects.',
     path: '/services',
   }),
-  blog: createPageMetadata({
-    title: 'Lighting Knowledge Hub',
-    description:
-      'Explore practical LED lighting guides, energy-efficiency advice, design ideas, and industry insights from Clair Lighting.',
-    path: '/blog',
-  }),
   franchise: createPageMetadata({
     title: 'Franchise Opportunities',
     description:
@@ -170,6 +164,11 @@ export const pageMetadata = {
     description:
       'Contact Clair Lighting for quotes, technical support, and lighting consultations. Noida HQ with offices across India and international locations.',
     path: '/contact',
+  }),
+  blog: createPageMetadata({
+    title: 'Lighting Insights & Guides',
+    description: 'Practical LED lighting guides, energy-efficiency advice and design insights from the Clair Lighting team.',
+    path: '/blog',
   }),
   privacyPolicy: createPageMetadata({
     title: 'Privacy Policy',
