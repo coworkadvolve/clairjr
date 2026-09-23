@@ -307,7 +307,7 @@ export function HomePage({ initialProducts, testimonials, catalogues, blogPosts 
       )}
 
 
-      <Section background="white">
+      <Section background="white" className="overflow-x-clip">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-neutral-900">
             Dealer Network
