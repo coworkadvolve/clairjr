@@ -13,7 +13,7 @@ export function Footer({ siteSettings }: FooterProps) {
   return (
     <footer className="bg-neutral-900 text-neutral-300">
       <div className="container mx-auto px-4 md:px-6 lg:px-8 max-w-7xl py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <img
               src="/logo/clair-white-png.png"
@@ -94,37 +94,6 @@ export function Footer({ siteSettings }: FooterProps) {
                   </Link>
                 </li>
               ))}
-            </ul>
-          </div>
-
-          <div>
-            <h3 className="text-white font-semibold text-lg mb-6">Products</h3>
-            <ul className="space-y-3 text-sm">
-              <li>
-                <Link href={routes.products} className="text-white hover:text-brand-orange transition-colors">
-                  Commercial Lighting
-                </Link>
-              </li>
-              <li>
-                <Link href={routes.products} className="text-white hover:text-brand-orange transition-colors">
-                  Industrial Lighting
-                </Link>
-              </li>
-              <li>
-                <Link href={routes.products} className="text-white hover:text-brand-orange transition-colors">
-                  Office Lighting
-                </Link>
-              </li>
-              <li>
-                <Link href={routes.products} className="text-white hover:text-brand-orange transition-colors">
-                  General Lighting
-                </Link>
-              </li>
-              <li>
-                <Link href={routes.products} className="text-white hover:text-brand-orange transition-colors">
-                  Decorative Lighting
-                </Link>
-              </li>
             </ul>
           </div>
 
