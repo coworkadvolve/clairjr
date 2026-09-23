@@ -67,7 +67,7 @@ export function HomePage({ initialProducts, testimonials, catalogues, blogPosts 
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4 mb-12">
-                <Link href={routes.products}>
+                <Link href={routes.catalogue}>
                   <Button
                     variant="primary"
                     size="lg"
@@ -225,7 +225,7 @@ export function HomePage({ initialProducts, testimonials, catalogues, blogPosts 
             }
           ].map((industry, index) => (
             <Link 
-              href={routes.products}
+              href={routes.catalogue}
               key={index} 
               className="relative group overflow-hidden rounded-xl h-[400px] cursor-pointer block"
             >
