@@ -15,6 +15,9 @@ import type { Catalogue, Testimonial } from '@/lib/content-types';
 import type { BlogPost } from '@/lib/blog';
 import { BlogCard } from '@/components/BlogCard';
 
+// Featured Products section is hidden on the home page; set to true to show it again.
+const SHOW_FEATURED_PRODUCTS = false;
+
 interface HomePageProps {
   initialProducts: Product[];
   testimonials: Testimonial[];
@@ -254,6 +257,7 @@ export function HomePage({ initialProducts, testimonials, catalogues, blogPosts 
         </div>
       </Section>
 
+      {SHOW_FEATURED_PRODUCTS && (
       <Section background="gray">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-neutral-900">
@@ -300,6 +304,7 @@ export function HomePage({ initialProducts, testimonials, catalogues, blogPosts 
           </Link>
         </div>
       </Section>
+      )}
 
 
       <Section background="white">
