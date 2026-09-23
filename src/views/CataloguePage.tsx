@@ -31,28 +31,28 @@ export function CataloguePage({ catalogues }: CataloguePageProps) {
               <p className="text-neutral-600 text-lg">No catalogues available at the moment.</p>
             </div>
           ) : (
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
               {catalogues.map((catalogue) => (
                 <div
                   key={catalogue.id}
                   className="bg-white border border-neutral-200 rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 group"
                 >
-                  <div className="relative h-80 bg-neutral-100 overflow-hidden flex items-center justify-center">
+                  <div className="relative h-72 bg-neutral-100 overflow-hidden flex items-center justify-center">
                     <img
                       src={catalogue.coverImage}
                       alt={catalogue.title}
                       className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300"
                     />
                   </div>
-                  <div className="p-8">
-                    <h3 className="text-2xl font-bold text-neutral-900 mb-3">
+                  <div className="p-6">
+                    <h3 className="text-xl font-bold text-neutral-900 mb-3">
                       {catalogue.title}
                     </h3>
                     <p className="text-neutral-600 leading-relaxed mb-6">
                       {catalogue.description}
                     </p>
 
-                    <div className="flex items-center gap-4 pt-6 border-t border-neutral-200">
+                    <div className="flex flex-wrap items-center gap-4 pt-6 border-t border-neutral-200">
                       <Button
                         variant="primary"
                         onClick={() => handleCatalogueDownload(catalogue.filePath, catalogue.fileName)}
