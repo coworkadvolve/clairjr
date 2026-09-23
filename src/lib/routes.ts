@@ -28,7 +28,6 @@ export function pathnameToNavKey(pathname: string): string {
 
 export const navItems = [
   { label: 'Home', href: routes.home, value: 'home' },
-  { label: 'Products', href: routes.products, value: 'products' },
   { label: 'Catalogue', href: routes.catalogue, value: 'catalogue' },
   { label: 'About', href: routes.about, value: 'about' },
   { label: 'Services', href: routes.services, value: 'services' },
@@ -39,7 +38,6 @@ export const navItems = [
 
 export const footerQuickLinks = [
   { label: 'Home', href: routes.home },
-  { label: 'Products', href: routes.products },
   { label: 'Catalogue', href: routes.catalogue },
   { label: 'About', href: routes.about },
   { label: 'Services', href: routes.services },
