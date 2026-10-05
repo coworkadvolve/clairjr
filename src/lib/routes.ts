@@ -31,7 +31,7 @@ export const navItems = [
   { label: 'Catalogue', href: routes.catalogue, value: 'catalogue' },
   { label: 'About', href: routes.about, value: 'about' },
   { label: 'Services', href: routes.services, value: 'services' },
-  { label: 'Blog', href: routes.blog, value: 'blog' },
+  { label: 'Blogs', href: routes.blog, value: 'blog' },
   { label: 'Franchise', href: routes.franchise, value: 'franchise' },
   { label: 'Contact', href: routes.contact, value: 'contact' },
 ] as const;
@@ -41,7 +41,7 @@ export const footerQuickLinks = [
   { label: 'Catalogue', href: routes.catalogue },
   { label: 'About', href: routes.about },
   { label: 'Services', href: routes.services },
-  { label: 'Blog', href: routes.blog },
+  { label: 'Blogs', href: routes.blog },
   { label: 'Franchise', href: routes.franchise },
   { label: 'Contact', href: routes.contact },
 ] as const;
