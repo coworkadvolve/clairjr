@@ -19,15 +19,15 @@ export function BlogCard({ post }: { post: BlogPost }) {
         )}
       </Link>
       <div className="flex flex-1 flex-col p-6">
-        <div className="mb-4 flex flex-wrap items-center gap-x-3 gap-y-2 text-xs font-semibold uppercase tracking-wider">
+        <div className="mb-3 flex flex-wrap items-center gap-x-3 gap-y-2 text-xs font-semibold uppercase tracking-wider">
           <span className="text-brand-orange">{post.category}</span>
           <span className="text-neutral-300">•</span>
           <time className="text-neutral-500" dateTime={post.publishedAt}>{formatBlogDate(post.publishedAt)}</time>
         </div>
-        <h3 className="mb-3 text-2xl font-bold leading-tight text-neutral-900">
+        <h3 className="mb-3 text-[26px] font-bold leading-[1.25] text-neutral-900">
           <Link href={routes.blogPost(post.slug)} className="transition-colors hover:text-brand-orange">{post.title}</Link>
         </h3>
-        <p className="mb-6 line-clamp-3 flex-1 leading-relaxed text-neutral-600">{post.excerpt}</p>
+        <p className="mb-5 line-clamp-3 flex-1 leading-relaxed text-neutral-600">{post.excerpt}</p>
         <div className="flex items-center justify-between border-t border-neutral-100 pt-4">
           <span className="flex items-center gap-1.5 text-sm text-neutral-500"><Clock size={15} /> {post.readingTime} min read</span>
           <Link href={routes.blogPost(post.slug)} className="flex items-center gap-2 font-semibold text-brand-orange">Read article <ArrowRight size={17} className="transition-transform group-hover:translate-x-1" /></Link>
